@@ -1,0 +1,304 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartao SUS)",
+    "palavras_chave": [
+      "cartao sus",
+      "cart ao do sus",
+      "sus",
+      "cns",
+      "cartao nacional de saude",
+      "emitir cartao sus",
+      "segunda via sus"
+    ],
+    "resposta": "Para solicitar o Cartão Nacional de Saúde pela primeira vez, procure uma UBS ou outro estabelecimento de saúde que realize o cadastro. O Meu SUS Digital permite consultar e apresentar o cartão já existente, mas não emitir um novo cadastro. Para obter a versão impressa, procure um estabelecimento de saúde.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação",
+      "Comprovante de residência, se solicitado pela unidade"
+    ],
+    "onde": "Unidade Básica de Saúde (UBS) ou outro estabelecimento de saúde para cadastro; Meu SUS Digital para consulta do cartão existente",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/9-como-faco-o-cartao",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Colocar a cartela de vacinação em dia",
+    "palavras_chave": [
+      "vacinacao",
+      "vacina",
+      "vacinas",
+      "cartela de vacinacao",
+      "carteira de vacina",
+      "imunizacao",
+      "calendario vacinal",
+      "dose",
+      "posto de vacina"
+    ],
+    "resposta": "Para colocar sua vacinação em dia, procure uma UBS ou posto de vacinação com sua caderneta, se tiver. A equipe verificará quais vacinas e doses estão pendentes conforme sua idade e histórico. Você também pode consultar registros disponíveis no Meu SUS Digital.",
+    "documentos": [
+      "Documento de identificação",
+      "CPF ou Cartão SUS, se disponível",
+      "Caderneta de vacinação, se possuir"
+    ],
+    "onde": "Unidades Básicas de Saúde (UBS) e postos de vacinação do município",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Realizar uma emergência de pronto socorro imediato",
+    "palavras_chave": [
+      "ambulancia",
+      "emergencia",
+      "urgencia",
+      "hospital",
+      "socorro",
+      "samu",
+      "192",
+      "pronto socorro",
+      "acidente",
+      "atendimento urgente"
+    ],
+    "resposta": "Em caso de emergência médica grave, ligue gratuitamente para o SAMU 192, informe o endereço, o que aconteceu e o estado da pessoa, e siga as orientações da equipe. Se for possível e adequado, procure uma UPA 24 horas ou pronto-socorro. O atendimento de urgência não deve ser adiado por falta de documentos.",
+    "documentos": [
+      "Nenhum documento é necessário para ligar ao SAMU",
+      "Documento de identificação e Cartão SUS, se disponíveis para atendimento presencial"
+    ],
+    "onde": "SAMU 192, UPA 24 horas ou pronto-socorro",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Educacao",
+    "titulo": "Aplicar desconto de bolsa",
+    "palavras_chave": [
+      "bolsa de estudos",
+      "desconto faculdade",
+      "desconto mensalidade",
+      "bolsa faculdade",
+      "prouni",
+      "bolsa integral",
+      "bolsa parcial",
+      "universidade",
+      "ensino superior"
+    ],
+    "resposta": "Para solicitar bolsa ou desconto na mensalidade, consulte o setor de bolsas da instituição e seus editais. Para bolsas do ProUni em instituições privadas de ensino superior, confira os requisitos de renda, escolaridade e ENEM e inscreva-se no Portal Único durante o período oficial. A concessão depende da seleção e da comprovação dos requisitos.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação",
+      "Comprovantes de renda familiar, quando exigidos",
+      "Comprovante de escolaridade",
+      "Documentação adicional exigida pelo programa ou instituição","Comprovante de renda ou Carteira da Pessoa Idosa, conforme o caso"
+    ],
+    "onde": "Empresas de transporte interestadual, CRAS para orientação e portal da Carteira da Pessoa Idosa",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/suas/servicos-e-programas/carteira-da-pessoa-idosa",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Educacao",
+    "titulo": "Aplicar Nota do ENEM em faculdades públicas",
+    "palavras_chave": [
+      "enem",
+      "nota enem",
+      "resultado enem",
+      "pontuacao enem",
+      "redacao enem",
+      "consultar nota",
+      "resultado da prova",
+      "boletim enem"
+    ],
+    "resposta": "Para usar sua nota do ENEM para concorrer a vagas em universidades e institutos públicos, acompanhe o SiSU no Portal Único de Acesso ao Ensino Superior. Durante as inscrições, entre com sua conta gov.br, confira as instituições, cursos e modalidades disponíveis e escolha suas opções conforme as regras da edição. Se for selecionado, siga os prazos e procedimentos de matrícula da instituição. Algumas instituições públicas também têm processos seletivos próprios que utilizam a nota do ENEM.",
+    "documentos": [
+      "CPF e acesso à conta gov.br para inscrição",
+      "Documentos de identificação e escolaridade exigidos na matrícula",
+      "Comprovantes para ações afirmativas ou cotas, quando aplicável"
+    ],
+    "onde": "Portal Único de Acesso ao Ensino Superior (SiSU) e sites das instituições públicas participantes",
+    "fonte": "https://acessounico.mec.gov.br/sisu",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Educacao",
+    "titulo": "Situar o programa Pe-de-Meia",
+    "palavras_chave": [
+      "pe de meia",
+      "pe-de-meia",
+      "incentivo estudante",
+      "dinheiro estudante",
+      "bolsa ensino medio",
+      "poupanca estudante",
+      "beneficio escolar",
+      "caixa tem"
+    ],
+    "resposta": "Para saber se você participa do Pé-de-Meia, consulte sua situação pelos canais oficiais do MEC. O programa atende estudantes elegíveis do ensino médio público conforme requisitos de matrícula, idade, Cadastro Único, renda e frequência. Não há inscrição individual específica: a identificação é feita com dados oficiais. Para verificar pagamentos, consulte os canais da Caixa.",
+    "documentos": [
+      "CPF regular do estudante",
+      "Dados escolares atualizados",
+      "Cadastro Único da família atualizado",
+      "Conta gov.br para consultas"
+    ],
+    "onde": "Portal do Ministério da Educação, escola pública e aplicativo Caixa Tem",
+    "fonte": "https://www.gov.br/mec/pt-br/assuntos/pe-de-meia",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Transporte",
+    "titulo": "Registrar o transporte gratuito pelo PLE (Passe Livre Estudantil)",
+    "palavras_chave": [
+      "passe livre estudantil",
+      "ple",
+      "transporte estudante",
+      "onibus gratuito estudante",
+      "gratuidade estudantil",
+      "bilhete estudante",
+      "passe escolar",
+      "transporte escolar"
+    ],
+    "resposta": "Para solicitar o Passe Livre Estudantil, primeiro confirme qual programa atende seu município ou estado. Consulte o órgão de transporte responsável, verifique requisitos como matrícula, renda e trajeto quando aplicáveis, e siga o procedimento de cadastro ou renovação indicado. A gratuidade e os documentos exigidos variam conforme o sistema local.",
+    "documentos": [
+      "Documento de identificação",
+      "CPF",
+      "Comprovante de matrícula atualizado",
+      "Comprovante de residência, quando exigido",
+      "Documentos adicionais previstos nas regras locais"
+    ],
+    "onde": "Órgão de transporte público do município ou estado e canais oficiais do sistema de bilhetagem estudantil",
+    "fonte": "https://www.gov.br/transportes/pt-br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Transporte",
+    "titulo": "Aplicar transporte gratuito para demais caso",
+    "palavras_chave": [
+      "transporte gratuito idoso",
+      "passagem gratuita idoso",
+      "carteira da pessoa idosa",
+      "onibus idoso",
+      "gratuidade terceira idade",
+      "viagem interestadual idoso",
+      "passagem idoso"
+    ],
+    "resposta": "Para verificar a gratuidade em transporte interestadual para pessoas idosas, consulte as regras do benefício na empresa transportadora e nos canais oficiais. Pessoas com 60 anos ou mais e renda de até dois salários mínimos podem ter direito a vagas gratuitas ou desconto mínimo de 50% nas condições previstas. Para ônibus urbanos e intermunicipais, consulte a legislação local.",
+    "documentos": [
+      "Documento oficial de identificação",
+      "Comprovante de renda ou Carteira da Pessoa Idosa, conforme o caso"
+    ],
+    "onde": "Empresas de transporte interestadual, CRAS para orientação e portal da Carteira da Pessoa Idosa",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/suas/servicos-e-programas/carteira-da-pessoa-idosa",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Transporte",
+    "titulo": "transporte gratuito",
+    "palavras_chave": [
+      "passe livre deficiente",
+      "transporte pcd",
+      "passagem gratuita pcd",
+      "pessoa com deficiencia",
+      "passe livre interestadual",
+      "gratuidade deficiencia",
+      "credencial passe livre"
+    ],
+    "resposta": "Pessoas com deficiência de baixa renda podem solicitar o Passe Livre Interestadual, desde que cumpram os critérios do programa. Consulte o serviço oficial, confira a documentação e solicite a credencial pelos canais indicados. Para transporte municipal ou intermunicipal, as regras e os órgãos responsáveis são diferentes.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação",
+      "Conta gov.br",
+      "Dados e comprovações de deficiência exigidos pelo programa",
+      "Informações cadastrais e de renda necessárias à análise"
+    ],
+    "onde": "Sistema Passe Livre Interestadual do Governo Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-passe-livre-interestadual-digital",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Moradia",
+    "titulo": "Como receber da Bolsa familia",
+    "palavras_chave": [
+      "bolsa familia",
+      "auxilio familia",
+      "beneficio social",
+      "cadastro unico",
+      "cadunico",
+      "cras",
+      "renda baixa",
+      "ajuda financeira",
+      "beneficio governo"
+    ],
+    "resposta": "Para tentar receber o Bolsa Família, verifique se sua família atende ao limite de renda do programa e mantenha o Cadastro Único atualizado. Se ainda não estiver cadastrada, procure o CRAS ou posto do Cadastro Único. A inclusão no cadastro não garante pagamento imediato: a seleção das famílias é realizada pelo Governo Federal. Consulte sua situação pelos canais oficiais.",
+    "documentos": [
+      "CPF das pessoas da família",
+      "Documento de identificação com foto do responsável familiar",
+      "Comprovante de residência ou declaração de residência",
+      "Outros documentos solicitados para atualização cadastral"
+    ],
+    "onde": "CRAS ou posto de atendimento do Cadastro Único do município",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 11,
+    "categoria": "Moradia",
+    "titulo": "Como pegar todos os comprovante de renda",
+    "palavras_chave": [
+      "comprovante de renda",
+      "comprovar renda",
+      "holerite",
+      "contracheque",
+      "declaracao de renda",
+      "renda informal",
+      "extrato bancario",
+      "autonomo",
+      "salario"
+    ],
+    "resposta": "Para obter comprovantes de renda, escolha o documento adequado à sua situação: trabalhadores com carteira assinada podem pedir holerites ao empregador; aposentados e beneficiários podem emitir extratos de pagamento nos canais do benefício; contribuintes podem obter documentos fiscais nos canais da Receita Federal; autônomos podem apresentar documentos aceitos pela instituição, como declaração de rendimentos e extratos. Confirme antes quais comprovantes e períodos são exigidos.",
+    "documentos": [
+      "Documento de identificação e CPF, quando solicitados",
+      "Holerite ou contracheque, se empregado",
+      "Extrato de benefício, se beneficiário",
+      "Declaração de Imposto de Renda, se aplicável",
+      "Extratos bancários ou declaração de rendimentos, se aceitos"
+    ],
+    "onde": "Empregador, Meu INSS (para benefícios previdenciários), Receita Federal, banco ou órgão que solicita a comprovação",
+    "fonte": "https://www.gov.br/pt-br/servicos/emitir-extrato-de-pagamento-de-beneficio",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 12,
+    "categoria": "Moradia",
+    "titulo": "Como se proveitar do Minha casa, minha vida",
+    "palavras_chave": [
+      "minha casa minha vida",
+      "casa propria",
+      "financiamento habitacional",
+      "moradia popular",
+      "habitacao",
+      "programa habitacional",
+      "comprar casa",
+      "subsidio habitacional",
+      "apartamento popular"
+    ],
+    "resposta": "Para participar do Minha Casa, Minha Vida, identifique a modalidade adequada à sua renda e situação familiar. Para unidades habitacionais subsidiadas, procure a prefeitura ou órgão habitacional responsável pelo cadastramento e seleção. Para financiamento, consulte a Caixa ou instituição financeira participante, apresente os documentos solicitados e passe pela análise de crédito e elegibilidade. As regras e condições variam conforme a modalidade.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação",
+      "Comprovante de renda",
+      "Comprovante de residência",
+      "Documentos de composição familiar e outros exigidos pela modalidade"
+    ],
+    "onde": "Prefeitura ou secretaria municipal de habitação, Caixa Econômica Federal e instituições financeiras participantes",
+    "fonte": "https://www.gov.br/cidades/pt-br/assuntos/materias/programa-minha-casa-minha-vida",
+    "verificado_em": "2026-11-05"
+  }
+]
